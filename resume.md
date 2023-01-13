@@ -1,5 +1,6 @@
 # Truong Le
 truongle@uw.edu
+
 https://www.linkedin.com/in/truong-le-769185200/
 
 ## Summary
