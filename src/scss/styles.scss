@@ -1,24 +1,28 @@
-//
+// 
 // Styles
-//
+// 
 
-// Import variables
-@import "./variables.scss";
+// Import Custom Variables
+@import "variables.scss";
 
 // Import Bootstrap
 @import "bootstrap/scss/bootstrap.scss";
 
-// Global CSS
-@import "./global.scss";
+// Import Custom SCSS
+@import "global.scss";
 
-// Components
-@import "./components/buttons.scss";
-@import "./components/navbar.scss";
+// Layout
+@import "layout/authentication.scss";
+@import "layout/dashboard-default.scss";
+@import "layout/dashboard-fixed.scss";
+@import "layout/error.scss";
 
-// Sections
-@import "./sections/masthead.scss";
-@import "./sections/portfolio.scss";
-@import "./sections/timeline.scss";
-@import "./sections/team.scss";
-@import "./sections/contact.scss";
-@import "./sections/footer.scss";
+// Navigation
+@import "navigation/nav.scss";
+@import "navigation/topnav.scss";
+@import "navigation/sidenav/sidenav.scss";
+@import "navigation/sidenav/sidenav-dark.scss";
+@import "navigation/sidenav/sidenav-light.scss";
+
+// Plugins
+@import "plugins/simple-datatables.scss";

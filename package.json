@@ -1,7 +1,7 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "7.0.11",
+    "title": "SB Admin",
+    "name": "startbootstrap-sb-admin",
+    "version": "7.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -12,18 +12,21 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "A free admin dashboard template based on Bootstrap 4, created by Start Bootstrap.",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
         "theme",
-        "template"
+        "template",
+        "admin",
+        "app",
+        "dashboard"
     ],
-    "homepage": "https://startbootstrap.com/theme/agency",
+    "homepage": "https://startbootstrap.com/template/sb-admin",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-agency/issues",
+        "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -33,7 +36,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-agency.git"
+        "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
