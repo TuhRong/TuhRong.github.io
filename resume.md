@@ -1,11 +1,12 @@
 # Truong Le
+![Image of Truong Le](truong_le.jpeg)
 truongle@uw.edu
 
 https://www.linkedin.com/in/truong-le-769185200/
 
-## Summary
+## SUMMARY:
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> Fresh college student who is adaptable, willing to absorb information in the technology field. Fresh student who will be able to bring in new and refreshing ideas with modern taught materials.
 
 ## EDUCATION:
 ### [University of Washington] (Seattle, Washington)
